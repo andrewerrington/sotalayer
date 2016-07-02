@@ -1,20 +1,39 @@
+#!/usr/bin/env python3
+
 # Python program to extract country-specific SOTA peaks from "summitslist.csv"
 # and write out an OSM file, "sotalayer.osm".  This can be processed by
 # OsmAnd Map Creator to produce an .obf file for use with OsmAnd, showing
 # SOTA peaks as POIs.
 
-key = 'HL/'  # First part of SOTA ref. to match (can be as long as you like)
+import argparse
+import sys
 
-id = -1     # Internal counter for node IDs
+parser = argparse.ArgumentParser()
+parser.add_argument('region',
+                    nargs='?',
+                    help='SOTA region to extract, e.g. G/ or G/CE')
+
+args = parser.parse_args()
+
+if args.region is None:
+    print("Region must be specified.")
+    sys.exit()
+
+key = args.region       # First part of SOTA ref. to match (can be as long as you like)
+print("Extracting '%s'."%key)
+
+id = 0     # Internal counter for node IDs
 
 with open('sotalayer.osm', 'w', encoding='utf-8') as o:
 
-    o.write("<?xml version='1.0' encoding='UTF-8'?>")
-    o.write("<osm version='0.5' generator='sotalayer.py'>")
+    o.write("<?xml version='1.0' encoding='UTF-8'?>\n")
+    o.write("<osm version='0.5' generator='sotalayer.py'>\n")
 
     with open("summitslist.csv", encoding='utf-8') as f:
         for line in f:
             if line[:len(key)] == key:
+                
+                id -= 1
 
                 fields = line.split(',')
 
@@ -26,17 +45,13 @@ with open('sotalayer.osm', 'w', encoding='utf-8') as o:
                 if int(fields[14]) > 0:
                     activations += ' Last ' + fields[16] + ' (' + fields[15] + ')'
                     
-                o.write('<node id="%s" visible="true" lat="%s" lon="%s">'%(id,fields[9],fields[8]))
-                o.write('<tag k="name" v="%s"/>'%(name))
-                o.write('<tag k="note" v="%s"/>'%(activations))
-                o.write('<tag k="ele" v="%s"/>'%(fields[4]))
-                o.write('<tag k="natural" v="peak"/>')
-                o.write('</node>')
+                o.write('  <node id="%s" visible="true" lat="%s" lon="%s">\n'%(id,fields[9],fields[8]))
+                o.write('    <tag k="name" v="%s"/>\n'%(name))
+                o.write('    <tag k="note" v="%s"/>\n'%(activations))
+                o.write('    <tag k="ele" v="%s"/>\n'%(fields[4]))
+                o.write('    <tag k="natural" v="peak"/>\n')
+                o.write('  </node>\n')
 
-                id -= 1
+    o.write("</osm>\n")
 
-    o.write("</osm>")
-
-
-
-    
+print("%s POIs extracted."%abs(id))
