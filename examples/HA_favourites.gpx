@@ -1,0 +1,2291 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<gpx version="1.1" creator="sotagpx.py" xmlns="http://www.topografix.com/GPX/1/1"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+  <wpt lat="46.1797" lon="18.3772">
+    <ele>680</ele>
+    <name>HA/DD-001 Zengö [4]</name>
+    <desc>32 activations. Last HA8LLH/P (29/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.1092" lon="18.2022">
+    <ele>611</ele>
+    <name>HA/DD-002 Tubes [4]</name>
+    <desc>43 activations. Last HA5AZC/P (17/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.1769" lon="18.3372">
+    <ele>604</ele>
+    <name>HA/DD-003 Hármas-hegy [4]</name>
+    <desc>29 activations. Last HA8LLH/P (30/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.2258" lon="18.3608">
+    <ele>594</ele>
+    <name>HA/DD-004 Dobogó [2]</name>
+    <desc>8 activations. Last HG7WAV/P (21/10/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.0944" lon="18.1381">
+    <ele>592</ele>
+    <name>HA/DD-005 Jakab-hegy [2]</name>
+    <desc>11 activations. Last HG7WAV/P (20/10/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.1144" lon="18.1739">
+    <ele>532</ele>
+    <name>HA/DD-006 Rózsa-hegy [2]</name>
+    <desc>13 activations. Last HA5AZC/P (17/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.2144" lon="18.4386">
+    <ele>472</ele>
+    <name>HA/DD-007 Templom-hegy [1]</name>
+    <desc>9 activations. Last HA2EBA/P (23/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.8556" lon="18.4111">
+    <ele>442</ele>
+    <name>HA/DD-008 Szársomlyó [1]</name>
+    <desc>7 activations. Last HA1AG/P (04/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.8889" lon="18.2503">
+    <ele>409</ele>
+    <name>HA/DD-009 Tenkes [1]</name>
+    <desc>8 activations. Last HA2EBA/P (31/03/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="45.8731" lon="18.4036">
+    <ele>341</ele>
+    <name>HA/DD-010 Fekete-hegy [1]</name>
+    <desc>6 activations. Last HA2EBA/P (23/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7719" lon="17.8811">
+    <ele>316</ele>
+    <name>HA/DD-011 Alman-teto [1]</name>
+    <desc>28 activations. Last HA2VR/P (18/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7381" lon="17.5428">
+    <ele>233</ele>
+    <name>HA/DD-012 Fonyódi-hegy [1]</name>
+    <desc>41 activations. Last HA4FY/P (22/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.1825" lon="17.9947">
+    <ele>358</ele>
+    <name>HA/DD-013 Hollófészek [1]</name>
+    <desc>8 activations. Last HA5AZC/P (18/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8100" lon="17.9294">
+    <ele>311</ele>
+    <name>HA/DD-014 Gyugy-hát [1]</name>
+    <desc>35 activations. Last HA10SOTA (22/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7242" lon="17.7111">
+    <ele>302</ele>
+    <name>HA/DD-015 Bánom-hegy [1]</name>
+    <desc>22 activations. Last HA3LV/P (01/01/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5708" lon="17.9978">
+    <ele>297</ele>
+    <name>HA/DD-016 József-hegy [1]</name>
+    <desc>18 activations. Last HA2EBA/P (02/08/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.3442" lon="18.6469">
+    <ele>286</ele>
+    <name>HA/DD-017 Éles-hát [1]</name>
+    <desc>24 activations. Last HA8BE/P (22/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.6336" lon="17.3497">
+    <ele>257</ele>
+    <name>HA/DD-018 Kastély-domb [1]</name>
+    <desc>27 activations. Last HA2EBA/P (01/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8719" lon="20.0128">
+    <ele>1011</ele>
+    <name>HA/EM-001 Kékes [10]</name>
+    <desc>112 activations. Last HA10SOTA (13/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF0000</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9161" lon="19.9164">
+    <ele>964</ele>
+    <name>HA/EM-002 Galya-tetö [10]</name>
+    <desc>110 activations. Last HA5BV/P (28/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF0000</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0694" lon="20.4300">
+    <ele>959</ele>
+    <name>HA/EM-003 Istállós-kö [10]</name>
+    <desc>35 activations. Last HA8BJ/P (16/01/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF0000</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5758" lon="21.4575">
+    <ele>893</ele>
+    <name>HA/EM-004 Nagy-Milic [8]</name>
+    <desc>21 activations. Last HA5AZC/P (27/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF7F00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8728" lon="19.8322">
+    <ele>815</ele>
+    <name>HA/EM-005 Tót-hegyes [8]</name>
+    <desc>49 activations. Last HG7WAV/P (07/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF7F00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8875" lon="19.7592">
+    <ele>805</ele>
+    <name>HA/EM-006 Muzsla [8]</name>
+    <desc>35 activations. Last HG7WAV/P (07/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF7F00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4158" lon="21.3103">
+    <ele>783</ele>
+    <name>HA/EM-007 Gergely-hegy [6]</name>
+    <desc>7 activations. Last HA8LLH/P (20/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4419" lon="21.3306">
+    <ele>753</ele>
+    <name>HA/EM-008 Téglás-kö [6]</name>
+    <desc>11 activations. Last HA6QR/P (15/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9189" lon="19.8097">
+    <ele>753</ele>
+    <name>HA/EM-009 Óvár [6]</name>
+    <desc>38 activations. Last HA5BV/P (05/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4139" lon="21.3742">
+    <ele>742</ele>
+    <name>HA/EM-010 Tokár-tetö [6]</name>
+    <desc>6 activations. Last HA6OY/P (23/10/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3494" lon="21.2867">
+    <ele>734</ele>
+    <name>HA/EM-011 Magoska [6]</name>
+    <desc>7 activations. Last HA5CLF/P (14/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1578" lon="19.7894">
+    <ele>727</ele>
+    <name>HA/EM-012 Karancs [6]</name>
+    <desc>49 activations. Last HA5AZC/P (30/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0400" lon="20.6447">
+    <ele>720</ele>
+    <name>HA/EM-013 Kölyuk-galya [6]</name>
+    <desc>29 activations. Last HA8LLH/P (24/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3122" lon="21.3008">
+    <ele>684</ele>
+    <name>HA/EM-014 Nagy-Korsós [4]</name>
+    <desc>2 activations. Last HA6QR/P (20/04/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8883" lon="20.1092">
+    <ele>674</ele>
+    <name>HA/EM-015 Szederjes-tetö [4]</name>
+    <desc>23 activations. Last HA7HF/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3492" lon="21.3383">
+    <ele>682</ele>
+    <name>HA/EM-016 Mocsárka-hegy [4]</name>
+    <desc>9 activations. Last HA7UL/P (21/11/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9767" lon="19.0197">
+    <ele>661</ele>
+    <name>HA/EM-017 Kámor [4]</name>
+    <desc>25 activations. Last HA2EBA/P (01/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9572" lon="20.4358">
+    <ele>669</ele>
+    <name>HA/EM-018 Várhegy [4]</name>
+    <desc>15 activations. Last HA7HF/P (27/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5572" lon="21.3794">
+    <ele>645</ele>
+    <name>HA/EM-019 Szurok-hegy [4]</name>
+    <desc>14 activations. Last HA5MA/P (13/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3781" lon="21.3439">
+    <ele>639</ele>
+    <name>HA/EM-020 Regéci várhegy [4]</name>
+    <desc>17 activations. Last HA7HF/P (14/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5317" lon="21.3939">
+    <ele>631</ele>
+    <name>HA/EM-021 Pál-hegy [4]</name>
+    <desc>11 activations. Last HA2VR/P (29/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1172" lon="19.9008">
+    <ele>625</ele>
+    <name>HA/EM-022 Szilvás-kö [4]</name>
+    <desc>25 activations. Last HA7HF/P (10/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1444" lon="19.8469">
+    <ele>618</ele>
+    <name>HA/EM-023 Salgó [4]</name>
+    <desc>46 activations. Last HA8LLH/P (31/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3025" lon="21.3800">
+    <ele>611</ele>
+    <name>HA/EM-024 Szokolya [4]</name>
+    <desc>2 activations. Last HA6OY/P (19/11/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2644" lon="21.2992">
+    <ele>608</ele>
+    <name>HA/EM-025 Szokolya [4]</name>
+    <desc>6 activations. Last HA6QR/P (13/03/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5117" lon="20.5644">
+    <ele>604</ele>
+    <name>HA/EM-026 Fertös-tetö [4]</name>
+    <desc>3 activations. Last HG7WAV/P (02/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8397" lon="19.8022">
+    <ele>599</ele>
+    <name>HA/EM-027 Havas [2]</name>
+    <desc>10 activations. Last HA5OT (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0778" lon="19.8433">
+    <ele>584</ele>
+    <name>HA/EM-028 Somlyó [2]</name>
+    <desc>9 activations. Last HA5OT (22/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4389" lon="21.5619">
+    <ele>577</ele>
+    <name>HA/EM-029 Fekete-hegy [2]</name>
+    <desc>2 activations. Last HA5AZC/P (28/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9581" lon="19.6433">
+    <ele>575</ele>
+    <name>HA/EM-030 Purga [2]</name>
+    <desc>17 activations. Last HA5AZC/P (27/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5642" lon="20.7281">
+    <ele>553</ele>
+    <name>HA/EM-031 Vecsem-bükk [2]</name>
+    <desc>0 activations.</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3481" lon="21.4864">
+    <ele>547</ele>
+    <name>HA/EM-032 Nagy-Papaj [2]</name>
+    <desc>2 activations. Last HA6OY/P (31/10/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1139" lon="20.1686">
+    <ele>543</ele>
+    <name>HA/EM-033 Ökör-hegy [2]</name>
+    <desc>7 activations. Last HA6QR/P (03/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1028" lon="19.8369">
+    <ele>542</ele>
+    <name>HA/EM-034 Pécs-kö [2]</name>
+    <desc>20 activations. Last HA5OT (22/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5192" lon="21.3558">
+    <ele>541</ele>
+    <name>HA/EM-035 Nagy-hegy [2]</name>
+    <desc>6 activations. Last HA5AZC/P (26/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9114" lon="19.4225">
+    <ele>529</ele>
+    <name>HA/EM-036 Szanda [2]</name>
+    <desc>19 activations. Last HA5AZC/P (18/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1203" lon="21.3808">
+    <ele>528</ele>
+    <name>HA/EM-037 Tokaji-hegy [2]</name>
+    <desc>15 activations. Last HA0SF/P (28/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5111" lon="21.5308">
+    <ele>527</ele>
+    <name>HA/EM-038 Korom-tetö [2]</name>
+    <desc>5 activations. Last HA2VR/P (27/12/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9969" lon="19.0375">
+    <ele>524</ele>
+    <name>HA/EM-039 Karajsó [2]</name>
+    <desc>14 activations. Last HA2EBA/P (01/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4797" lon="20.7325">
+    <ele>522</ele>
+    <name>HA/EM-040 Csengö-tetö [2]</name>
+    <desc>3 activations. Last HA4FY/P (20/07/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0931" lon="19.9517">
+    <ele>520</ele>
+    <name>HA/EM-041 Nagy-kö [2]</name>
+    <desc>4 activations. Last HA5OT (19/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9778" lon="19.5519">
+    <ele>517</ele>
+    <name>HA/EM-042 Dobogó-tetö [2]</name>
+    <desc>17 activations. Last HA5AZC/P (17/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4017" lon="21.6317">
+    <ele>514</ele>
+    <name>HA/EM-043 Magas-hegy [2]</name>
+    <desc>7 activations. Last HA5AZC/P (29/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9303" lon="19.5961">
+    <ele>515</ele>
+    <name>HA/EM-044 Bézma [2]</name>
+    <desc>16 activations. Last HA5OT (01/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8317" lon="19.7100">
+    <ele>509</ele>
+    <name>HA/EM-045 Nagy-hársas [2]</name>
+    <desc>17 activations. Last HA7HF/P (19/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7953" lon="19.9725">
+    <ele>500</ele>
+    <name>HA/EM-046 Sár-hegy [2]</name>
+    <desc>29 activations. Last HA5OT (16/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3661" lon="21.4239">
+    <ele>498</ele>
+    <name>HA/EM-047 Kopaszka [1]</name>
+    <desc>3 activations. Last HA5AZC/P (25/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0194" lon="18.9986">
+    <ele>496</ele>
+    <name>HA/EM-048 Kökapu [1]</name>
+    <desc>7 activations. Last HA5AZC/P (08/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9808" lon="19.5897">
+    <ele>486</ele>
+    <name>HA/EM-049 Fekete-hegy [1]</name>
+    <desc>7 activations. Last HA5OT (01/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4794" lon="20.5047">
+    <ele>485</ele>
+    <name>HA/EM-050 Baradla-tetö [1]</name>
+    <desc>5 activations. Last HA6OY/P (27/12/2012)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3956" lon="21.6194">
+    <ele>482</ele>
+    <name>HA/EM-051 Kecske-hát [1]</name>
+    <desc>4 activations. Last HA5AZC/P (29/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8903" lon="19.4133">
+    <ele>477</ele>
+    <name>HA/EM-052 Berceli-hegy [1]</name>
+    <desc>7 activations. Last HA5AZC/P (18/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2142" lon="21.3550">
+    <ele>474</ele>
+    <name>HA/EM-053 Cigány-hegy [1]</name>
+    <desc>2 activations. Last HA6QR/P (15/03/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9158" lon="19.4908">
+    <ele>470</ele>
+    <name>HA/EM-054 Sas-bérc [1]</name>
+    <desc>20 activations. Last HA5CQZ/P (04/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1089" lon="20.0722">
+    <ele>468</ele>
+    <name>HA/EM-055 Lóhullás [1]</name>
+    <desc>7 activations. Last HA5AZC/P (13/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9589" lon="19.7731">
+    <ele>468</ele>
+    <name>HA/EM-056 Farkaslyuk-tetö [1]</name>
+    <desc>10 activations. Last HA4BF/P (08/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3886" lon="21.6247">
+    <ele>460</ele>
+    <name>HA/EM-057 Sátor-hegy [1]</name>
+    <desc>3 activations. Last HA5AZC/P (29/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3181" lon="21.4561">
+    <ele>456</ele>
+    <name>HA/EM-058 Fekete-hegy [1]</name>
+    <desc>5 activations. Last HA5AZC/P (05/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9158" lon="20.0711">
+    <ele>458</ele>
+    <name>HA/EM-059 Hegyes-hegy [1]</name>
+    <desc>10 activations. Last HG7WAV/P (14/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2342" lon="20.4472">
+    <ele>454</ele>
+    <name>HA/EM-060 Köves-mál-tetö [1]</name>
+    <desc>0 activations.</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0308" lon="19.6081">
+    <ele>452</ele>
+    <name>HA/EM-061 ör-hegy [1]</name>
+    <desc>7 activations. Last HA5AZC/P (31/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8900" lon="19.2619">
+    <ele>446</ele>
+    <name>HA/EM-062 Dél-hegy [1]</name>
+    <desc>12 activations. Last HA5AZC/P (02/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3244" lon="20.4639">
+    <ele>441</ele>
+    <name>HA/EM-063 Fehérlovas [1]</name>
+    <desc>2 activations. Last HA6OY/P (01/05/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0117" lon="19.7306">
+    <ele>440</ele>
+    <name>HA/EM-064 Buda-hegy [1]</name>
+    <desc>0 activations.</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2064" lon="20.4472">
+    <ele>435</ele>
+    <name>HA/EM-065 Víz-köz [1]</name>
+    <desc>4 activations. Last HA6QR/P (27/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8642" lon="19.4611">
+    <ele>409</ele>
+    <name>HA/EM-066 Piski-hegy [1]</name>
+    <desc>10 activations. Last HA5OT (15/11/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9244" lon="19.5783">
+    <ele>413</ele>
+    <name>HA/EM-067 Közép-hegy [1]</name>
+    <desc>7 activations. Last HA5AZC/P (28/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1697" lon="19.5800">
+    <ele>403</ele>
+    <name>HA/EM-068 Nagy-Hallgató [1]</name>
+    <desc>5 activations. Last HA5AZC/P (31/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2622" lon="21.2061">
+    <ele>402</ele>
+    <name>HA/EM-069 Krakó [1]</name>
+    <desc>3 activations. Last HA/DL2DXA/P (30/04/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9153" lon="19.5725">
+    <ele>392</ele>
+    <name>HA/EM-070 Magas-hegy [1]</name>
+    <desc>7 activations. Last HA5LV/P (09/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8594" lon="19.2344">
+    <ele>379</ele>
+    <name>HA/EM-071 Varga-hegy [1]</name>
+    <desc>11 activations. Last HA2EBA/P (25/07/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1364" lon="19.7275">
+    <ele>364</ele>
+    <name>HA/EM-072 Kása-hegy [1]</name>
+    <desc>9 activations. Last HA5AZC/P (29/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9439" lon="20.1642">
+    <ele>356</ele>
+    <name>HA/EM-073 Darnó-hegy [1]</name>
+    <desc>4 activations. Last HA5AZC/P (09/08/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9236" lon="19.3267">
+    <ele>349</ele>
+    <name>HA/EM-074 Cser-hát [1]</name>
+    <desc>1 activation. Last HG2ECZ/6 (29/04/2006)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1969" lon="21.1703">
+    <ele>336</ele>
+    <name>HA/EM-075 Farkas-tetö [1]</name>
+    <desc>5 activations. Last HA5MA/P (06/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3583" lon="21.5725">
+    <ele>303</ele>
+    <name>HA/EM-076 Megyer-hegy [1]</name>
+    <desc>0 activations.</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0903" lon="20.5506">
+    <ele>840</ele>
+    <name>HA/EM-077 Nagy-Hárs [8]</name>
+    <desc>17 activations. Last HG7WAV/P (22/02/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF7F00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9267" lon="19.8275">
+    <ele>789</ele>
+    <name>HA/EM-078 Ágasvár [6]</name>
+    <desc>37 activations. Last HA5BV/P (05/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4208" lon="21.3289">
+    <ele>757</ele>
+    <name>HA/EM-079 Bán-hegy [6]</name>
+    <desc>7 activations. Last HA6QR/P (15/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8717" lon="20.0656">
+    <ele>743</ele>
+    <name>HA/EM-080 Szár-hegy [6]</name>
+    <desc>25 activations. Last HG7WAV/P (27/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0608" lon="20.6581">
+    <ele>712</ele>
+    <name>HA/EM-081 Nagy-Som-hegy [6]</name>
+    <desc>28 activations. Last HA8LLH/P (24/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0631" lon="20.3975">
+    <ele>704</ele>
+    <name>HA/EM-082 Kelemen széke [6]</name>
+    <desc>18 activations. Last HA5AZC/P (03/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0125" lon="20.5828">
+    <ele>682</ele>
+    <name>HA/EM-083 Miklós-Luga [4]</name>
+    <desc>5 activations. Last HA8LLH/P (24/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0458" lon="20.5897">
+    <ele>668</ele>
+    <name>HA/EM-084 Nagy-Bodzás [4]</name>
+    <desc>15 activations. Last HA2EBA/P (04/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9833" lon="20.5058">
+    <ele>660</ele>
+    <name>HA/EM-085 Ódor-hegy [4]</name>
+    <desc>11 activations. Last HA5LV/P (16/12/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4428" lon="21.4225">
+    <ele>639</ele>
+    <name>HA/EM-086 Koprina [4]</name>
+    <desc>4 activations. Last HA2VR/P (28/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5444" lon="21.4703">
+    <ele>634</ele>
+    <name>HA/EM-087 ör-hegy [4]</name>
+    <desc>10 activations. Last HA5AZC/P (27/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5392" lon="21.5128">
+    <ele>621</ele>
+    <name>HA/EM-088 Lipovec [4]</name>
+    <desc>5 activations. Last HA2VR/P (27/12/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4008" lon="21.4719">
+    <ele>578</ele>
+    <name>HA/EM-089 Eszkála-tetö [2]</name>
+    <desc>2 activations. Last HA6QR/P (31/10/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9881" lon="19.6656">
+    <ele>569</ele>
+    <name>HA/EM-090 Kerek-bükk [2]</name>
+    <desc>11 activations. Last HA5AZC/P (29/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4533" lon="21.4342">
+    <ele>563</ele>
+    <name>HA/EM-091 Nagy-Fekete-hegy [2]</name>
+    <desc>2 activations. Last HA6QR/P (01/11/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4442" lon="21.4011">
+    <ele>545</ele>
+    <name>HA/EM-092 Solymos [2]</name>
+    <desc>2 activations. Last HA2VR/P (28/12/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4289" lon="21.5617">
+    <ele>542</ele>
+    <name>HA/EM-093 Nagy-Hallgató [2]</name>
+    <desc>3 activations. Last HA5AZC/P (28/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4647" lon="21.4008">
+    <ele>523</ele>
+    <name>HA/EM-094 Ork-hegy [2]</name>
+    <desc>1 activation. Last HA6QR/P (23/04/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3711" lon="21.4431">
+    <ele>522</ele>
+    <name>HA/EM-095 Barlang-hegy [2]</name>
+    <desc>4 activations. Last HA5AZC/P (23/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9833" lon="20.3750">
+    <ele>517</ele>
+    <name>HA/EM-096 Berva [2]</name>
+    <desc>5 activations. Last HA6OY/P (20/08/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2611" lon="21.2514">
+    <ele>508</ele>
+    <name>HA/EM-097 Csonkás [2]</name>
+    <desc>2 activations. Last HA6QR/P (22/04/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4758" lon="21.3750">
+    <ele>507</ele>
+    <name>HA/EM-098 Cser-hegy [2]</name>
+    <desc>3 activations. Last HA2VR/P (28/12/2012)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4500" lon="21.4969">
+    <ele>503</ele>
+    <name>HA/EM-099 Som-hegy [2]</name>
+    <desc>5 activations. Last HA5AZC/P (14/02/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1364" lon="19.7967">
+    <ele>503</ele>
+    <name>HA/EM-100 Kercseg-tetö [2]</name>
+    <desc>10 activations. Last HA5AZC/P (30/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1081" lon="20.1269">
+    <ele>502</ele>
+    <name>HA/EM-101 Dobronya [2]</name>
+    <desc>2 activations. Last HA6QR/P (23/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4828" lon="20.4917">
+    <ele>502</ele>
+    <name>HA/EM-102 Poronya-tetö [2]</name>
+    <desc>2 activations. Last HA6QR/P (03/04/2010)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5083" lon="20.5889">
+    <ele>485</ele>
+    <name>HA/EM-103 Lipinye [1]</name>
+    <desc>3 activations. Last HG7WAV/P (02/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4764" lon="20.5175">
+    <ele>484</ele>
+    <name>HA/EM-104 Galya-tetö [1]</name>
+    <desc>2 activations. Last HA6QR/P (03/04/2010)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0775" lon="19.9361">
+    <ele>481</ele>
+    <name>HA/EM-105 Hegyeske [1]</name>
+    <desc>3 activations. Last HA8LLH/P (01/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3969" lon="21.5814">
+    <ele>479</ele>
+    <name>HA/EM-106 Száva-hegy [1]</name>
+    <desc>2 activations. Last HA6QR/P (19/11/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4703" lon="21.4175">
+    <ele>477</ele>
+    <name>HA/EM-107 Csoszota [1]</name>
+    <desc>4 activations. Last HA10SOTA (14/02/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.5364" lon="20.7003">
+    <ele>465</ele>
+    <name>HA/EM-108 Dusa [1]</name>
+    <desc>4 activations. Last HA6OY/P (27/12/2012)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0706" lon="20.2456">
+    <ele>464</ele>
+    <name>HA/EM-109 Szilvás-tetö [1]</name>
+    <desc>7 activations. Last HA5AZC/P (14/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4308" lon="21.4781">
+    <ele>463</ele>
+    <name>HA/EM-110 Gilevár [1]</name>
+    <desc>2 activations. Last HG7WAV/P (22/11/2011)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2292" lon="20.4572">
+    <ele>461</ele>
+    <name>HA/EM-111 Három-kö [1]</name>
+    <desc>5 activations. Last DJ5AA (27/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0242" lon="19.7461">
+    <ele>455</ele>
+    <name>HA/EM-112 Kakukk-hegy [1]</name>
+    <desc>3 activations. Last HA5AZC/P (29/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4556" lon="20.5644">
+    <ele>453</ele>
+    <name>HA/EM-113 Pitics-hegy [1]</name>
+    <desc>5 activations. Last HG7WAV/P (01/05/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1719" lon="20.3083">
+    <ele>445</ele>
+    <name>HA/EM-114 Boroszló-fö [1]</name>
+    <desc>6 activations. Last HA5AZC/P (27/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9872" lon="20.3222">
+    <ele>444</ele>
+    <name>HA/EM-115 Keselyü-bérc [1]</name>
+    <desc>11 activations. Last HA7HF/P (25/05/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0433" lon="20.2133">
+    <ele>438</ele>
+    <name>HA/EM-116 Babar-hegyes [1]</name>
+    <desc>8 activations. Last HA5AZC/P (26/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8847" lon="19.4808">
+    <ele>406</ele>
+    <name>HA/EM-117 Nagy-Mulató-hegy [1]</name>
+    <desc>9 activations. Last HA2VR/P (15/11/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2361" lon="20.5647">
+    <ele>408</ele>
+    <name>HA/EM-118 Bükk-tetö [1]</name>
+    <desc>3 activations. Last HA6QR/P (28/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7978" lon="19.7106">
+    <ele>397</ele>
+    <name>HA/EM-119 Somlyó [1]</name>
+    <desc>23 activations. Last HG7WAV/P (21/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2278" lon="20.1575">
+    <ele>390</ele>
+    <name>HA/EM-120 Golotkafö [1]</name>
+    <desc>5 activations. Last HA5AZC/P (26/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.0128" lon="19.9197">
+    <ele>385</ele>
+    <name>HA/EM-121 Köbánya [1]</name>
+    <desc>8 activations. Last HA5OT (19/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.1939" lon="20.2853">
+    <ele>380</ele>
+    <name>HA/EM-122 Rózsa-domb [1]</name>
+    <desc>6 activations. Last HA5AZC/P (27/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7756" lon="19.2975">
+    <ele>380</ele>
+    <name>HA/EM-123 Nagy-Szór [1]</name>
+    <desc>0 activations.</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.4144" lon="20.6706">
+    <ele>376</ele>
+    <name>HA/EM-124 Szölöhegy [1]</name>
+    <desc>4 activations. Last HA7UL/P (19/11/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9353" lon="20.0853">
+    <ele>324</ele>
+    <name>HA/EM-125 Lahóca [1]</name>
+    <desc>8 activations. Last DJ5AA (20/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.3503" lon="21.5522">
+    <ele>313</ele>
+    <name>HA/EM-126 Király-hegy [1]</name>
+    <desc>5 activations. Last HA8LLH/P (06/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="48.2033" lon="21.0961">
+    <ele>290</ele>
+    <name>HA/EM-127 Nagy-répás [1]</name>
+    <desc>3 activations. Last HA6OY/P (23/10/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9150" lon="20.1872">
+    <ele>287</ele>
+    <name>HA/EM-128 Nagy-Várhegy [1]</name>
+    <desc>5 activations. Last HA2EBA/P (17/05/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2950" lon="17.7556">
+    <ele>709</ele>
+    <name>HA/KD-001 Köris-hegy [6]</name>
+    <desc>56 activations. Last HA9MCQ/P (16/07/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2534" lon="17.7780">
+    <ele>649</ele>
+    <name>HA/KD-002 Nagy-Som-hegy [4]</name>
+    <desc>28 activations. Last HA5DSA/P (27/02/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1894" lon="17.7375">
+    <ele>646</ele>
+    <name>HA/KD-003 Középsö-Hajag [4]</name>
+    <desc>103 activations. Last HA10SOTA (05/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1806" lon="17.8564">
+    <ele>644</ele>
+    <name>HA/KD-004 Papod [4]</name>
+    <desc>68 activations. Last HA1DTQ/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6806" lon="18.4858">
+    <ele>633</ele>
+    <name>HA/KD-005 Gerecse [4]</name>
+    <desc>63 activations. Last HA5BV/P (17/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0464" lon="17.6567">
+    <ele>596</ele>
+    <name>HA/KD-006 Kab-hegy [2]</name>
+    <desc>53 activations. Last HA1DTQ/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2256" lon="18.0325">
+    <ele>574</ele>
+    <name>HA/KD-007 Öreg-Futóné [2]</name>
+    <desc>24 activations. Last HA5OT (14/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6433" lon="18.4219">
+    <ele>554</ele>
+    <name>HA/KD-008 Öreg Kovács [2]</name>
+    <desc>20 activations. Last HA1DTQ/P (25/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6986" lon="18.5006">
+    <ele>545</ele>
+    <name>HA/KD-009 Pisznice [2]</name>
+    <desc>14 activations. Last HA5OT (19/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1169" lon="17.6956">
+    <ele>536</ele>
+    <name>HA/KD-010 Üsti-hegy [2]</name>
+    <desc>28 activations. Last HA2PP/P (27/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9636" lon="17.5019">
+    <ele>511</ele>
+    <name>HA/KD-011 Agár-tetö [2]</name>
+    <desc>16 activations. Last HA3HK/P (18/04/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6614" lon="18.4325">
+    <ele>505</ele>
+    <name>HA/KD-012 Gorba-tetö [2]</name>
+    <desc>20 activations. Last HG7WAV/P (11/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3575" lon="17.8486">
+    <ele>494</ele>
+    <name>HA/KD-013 Zörög-tetö [1]</name>
+    <desc>18 activations. Last HA2PP/P (29/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5011" lon="18.4583">
+    <ele>487</ele>
+    <name>HA/KD-014 Nagy-Csákány [1]</name>
+    <desc>22 activations. Last HA5OT (03/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3703" lon="18.2556">
+    <ele>479</ele>
+    <name>HA/KD-015 Csóka-hegy [1]</name>
+    <desc>28 activations. Last HA10SOTA (27/06/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7089" lon="18.6828">
+    <ele>457</ele>
+    <name>HA/KD-016 Nagy Gete [1]</name>
+    <desc>19 activations. Last HA5BV/P (10/01/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5700" lon="18.5322">
+    <ele>448</ele>
+    <name>HA/KD-017 Somlyó [1]</name>
+    <desc>20 activations. Last HA9MCQ/P (23/10/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9153" lon="17.5769">
+    <ele>447</ele>
+    <name>HA/KD-018 Boncsos-tetö [1]</name>
+    <desc>13 activations. Last HA2EBA/P (13/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8031" lon="17.4961">
+    <ele>437</ele>
+    <name>HA/KD-019 Badacsony [1]</name>
+    <desc>23 activations. Last HA2EBA/P (28/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1464" lon="17.3722">
+    <ele>432</ele>
+    <name>HA/KD-020 Somló [1]</name>
+    <desc>29 activations. Last HA10SOTA (23/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0014" lon="17.8506">
+    <ele>431</ele>
+    <name>HA/KD-021 Recsek-hegy [1]</name>
+    <desc>1 activation. Last HA4FY/2 (15/10/2005)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8411" lon="17.4483">
+    <ele>415</ele>
+    <name>HA/KD-022 Szent-György-hegy [1]</name>
+    <desc>21 activations. Last HA1DTQ/P (05/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6800" lon="18.5503">
+    <ele>409</ele>
+    <name>HA/KD-023 Som-berek [1]</name>
+    <desc>11 activations. Last HA5MA/P (27/10/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8664" lon="17.3292">
+    <ele>406</ele>
+    <name>HA/KD-024 Kö-orra [1]</name>
+    <desc>16 activations. Last HA2EBA/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7867" lon="18.7747">
+    <ele>404</ele>
+    <name>HA/KD-025 Vaskapu [1]</name>
+    <desc>25 activations. Last HA/OH0FM/P (14/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6094" lon="18.4736">
+    <ele>398</ele>
+    <name>HA/KD-026 Pes-kö [1]</name>
+    <desc>16 activations. Last HA1DTQ/P (25/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8292" lon="17.5008">
+    <ele>393</ele>
+    <name>HA/KD-027 Gulács [1]</name>
+    <desc>21 activations. Last HA2EBA/P (28/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5061" lon="18.5158">
+    <ele>384</ele>
+    <name>HA/KD-028 Zuppa-tetö [1]</name>
+    <desc>25 activations. Last HA4KB (30/11/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9561" lon="17.5739">
+    <ele>380</ele>
+    <name>HA/KD-029 Bondoró-hegy [1]</name>
+    <desc>10 activations. Last HA2EBA/P (13/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8711" lon="17.5042">
+    <ele>375</ele>
+    <name>HA/KD-030 Csobánc [1]</name>
+    <desc>23 activations. Last HA4KB/P (16/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9903" lon="17.2983">
+    <ele>374</ele>
+    <name>HA/KD-031 Rendeki-hegy [1]</name>
+    <desc>13 activations. Last HA2EBA/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7233" lon="18.5747">
+    <ele>374</ele>
+    <name>HA/KD-032 Öreg-kö [1]</name>
+    <desc>12 activations. Last HA/OH0FM/P (13/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6406" lon="18.6211">
+    <ele>362</ele>
+    <name>HA/KD-033 Nagy-ör-hegy [1]</name>
+    <desc>15 activations. Last HA2EBA/P (14/07/2013)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2583" lon="18.5967">
+    <ele>351</ele>
+    <name>HA/KD-034 Meleg-hegy [1]</name>
+    <desc>49 activations. Last HA4FY/P (17/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8364" lon="17.5214">
+    <ele>346</ele>
+    <name>HA/KD-035 Tóti-hegy [1]</name>
+    <desc>21 activations. Last HA2EBA/P (15/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8794" lon="17.5253">
+    <ele>344</ele>
+    <name>HA/KD-036 Láz-tetö [1]</name>
+    <desc>11 activations. Last HA2PP/P (18/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5878" lon="18.6211">
+    <ele>343</ele>
+    <name>HA/KD-037 Bagó-hegy [1]</name>
+    <desc>17 activations. Last HA7UL/P (23/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9244" lon="17.4594">
+    <ele>331</ele>
+    <name>HA/KD-038 Haláp [1]</name>
+    <desc>16 activations. Last HA2EBA/P (13/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8489" lon="17.6272">
+    <ele>322</ele>
+    <name>HA/KD-039 Küszöb-orom [1]</name>
+    <desc>14 activations. Last HA8BE/P (23/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8156" lon="17.5356">
+    <ele>311</ele>
+    <name>HA/KD-040 Örsi-hegy [1]</name>
+    <desc>13 activations. Last HA2EBA/P (28/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9139" lon="17.5114">
+    <ele>280</ele>
+    <name>HA/KD-041 Hegyesd [1]</name>
+    <desc>16 activations. Last HA2EBA/P (13/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7958" lon="17.4397">
+    <ele>242</ele>
+    <name>HA/KD-042 Hálás-tetö [1]</name>
+    <desc>24 activations. Last HA7HF/P (18/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9064" lon="17.8525">
+    <ele>232</ele>
+    <name>HA/KD-043 Csúcs-hegy [1]</name>
+    <desc>33 activations. Last HA8LLH/P (12/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2342" lon="17.6811">
+    <ele>531</ele>
+    <name>HA/KD-044 Pápavár [2]</name>
+    <desc>19 activations. Last HA2PP/P (21/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.1986" lon="17.9317">
+    <ele>525</ele>
+    <name>HA/KD-045 Ámos-hegy [2]</name>
+    <desc>26 activations. Last HA2PP/P (30/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0869" lon="17.7636">
+    <ele>509</ele>
+    <name>HA/KD-046 Mög-szeg [2]</name>
+    <desc>24 activations. Last HA2PP/P (23/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2256" lon="17.9606">
+    <ele>504</ele>
+    <name>HA/KD-047 Tunyok-hegy [2]</name>
+    <desc>21 activations. Last HA2PP/P (17/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6936" lon="18.4117">
+    <ele>454</ele>
+    <name>HA/KD-048 Hosszú Vontató [1]</name>
+    <desc>11 activations. Last HA1DTQ/P (25/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7436" lon="18.8331">
+    <ele>486</ele>
+    <name>HA/KD-049 Ráró-hegy [1]</name>
+    <desc>17 activations. Last HA1DTQ/P (24/05/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4447" lon="18.4433">
+    <ele>450</ele>
+    <name>HA/KD-050 Nagy-Tábor-hegy [1]</name>
+    <desc>19 activations. Last HA5OT (23/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0206" lon="17.8481">
+    <ele>441</ele>
+    <name>HA/KD-051 Nagy-Som-hegy [1]</name>
+    <desc>33 activations. Last HA2PP/P (03/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2222" lon="18.2086">
+    <ele>363</ele>
+    <name>HA/KD-052 Baglyas-hegy [1]</name>
+    <desc>27 activations. Last HA4FY/P (05/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6486" lon="18.6647">
+    <ele>315</ele>
+    <name>HA/KD-053 Köszikla [1]</name>
+    <desc>20 activations. Last HA/DH7KU/P (23/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8086" lon="18.7981">
+    <ele>307</ele>
+    <name>HA/KD-054 Szamár-hegy [1]</name>
+    <desc>16 activations. Last HA5CQZ/P (23/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9486" lon="18.9481">
+    <ele>938</ele>
+    <name>HA/KM-001 Csóványos [10]</name>
+    <desc>75 activations. Last HA10SOTA (13/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF0000</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6886" lon="18.8728">
+    <ele>756</ele>
+    <name>HA/KM-002 Pilis [6]</name>
+    <desc>101 activations. Last HA4FY/P (31/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9578" lon="18.8775">
+    <ele>743</ele>
+    <name>HA/KM-003 Vár-bükk [6]</name>
+    <desc>30 activations. Last HG7WAV/P (05/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9719" lon="18.9114">
+    <ele>724</ele>
+    <name>HA/KM-004 Miklós-tetö [6]</name>
+    <desc>3 activations. Last HG2ECZ/7 (10/12/2005)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7197" lon="18.8989">
+    <ele>700</ele>
+    <name>HA/KM-005 Dobogó-kö [6]</name>
+    <desc>106 activations. Last HA1DTQ/P (29/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FFFF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8336" lon="19.1522">
+    <ele>652</ele>
+    <name>HA/KM-006 Naszály [4]</name>
+    <desc>47 activations. Last HA5BV/P (11/02/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7389" lon="18.9208">
+    <ele>640</ele>
+    <name>HA/KM-007 Prédikálószék [4]</name>
+    <desc>48 activations. Last HA5BV/P (02/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.9875" lon="18.9886">
+    <ele>633</ele>
+    <name>HA/KM-008 Bugyihó [4]</name>
+    <desc>26 activations. Last HA7HF/P (23/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8975" lon="18.8919">
+    <ele>608</ele>
+    <name>HA/KM-009 Nagy-Sas-hegy [4]</name>
+    <desc>38 activations. Last HA5BV/P (14/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#00FF00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7536" lon="19.0064">
+    <ele>594</ele>
+    <name>HA/KM-010 Urak asztala [2]</name>
+    <desc>31 activations. Last HA5MA/P (04/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7333" lon="19.0094">
+    <ele>590</ele>
+    <name>HA/KM-011 Szent László-hegy [2]</name>
+    <desc>29 activations. Last HG7WAV/P (03/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6908" lon="18.9797">
+    <ele>587</ele>
+    <name>HA/KM-012 Bölcsö-hegy [2]</name>
+    <desc>26 activations. Last HA8LLH/P (27/09/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7436" lon="18.9747">
+    <ele>567</ele>
+    <name>HA/KM-013 Öreg Pap-hegy [2]</name>
+    <desc>16 activations. Last HG7WAV/P (03/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5517" lon="18.8653">
+    <ele>559</ele>
+    <name>HA/KM-014 Nagy-Kopasz [2]</name>
+    <desc>46 activations. Last HG7WAV/P (10/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7189" lon="19.0522">
+    <ele>558</ele>
+    <name>HA/KM-015 Nyerges-hegy [2]</name>
+    <desc>31 activations. Last HA5CLF/P (02/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5892" lon="18.8508">
+    <ele>558</ele>
+    <name>HA/KM-016 Kutya-hegy [2]</name>
+    <desc>44 activations. Last HA5CLF/P (16/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7258" lon="19.0414">
+    <ele>549</ele>
+    <name>HA/KM-017 Berseg [2]</name>
+    <desc>26 activations. Last HA5OKE/P (01/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6225" lon="18.9847">
+    <ele>534</ele>
+    <name>HA/KM-018 Nagy-Kevély [2]</name>
+    <desc>38 activations. Last HA5DON (21/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5181" lon="18.9592">
+    <ele>527</ele>
+    <name>HA/KM-019 János-hegy [2]</name>
+    <desc>90 activations. Last HA10SOTA (19/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8781" lon="18.9594">
+    <ele>530</ele>
+    <name>HA/KM-020 Tar Péter-hegy [2]</name>
+    <desc>13 activations. Last HA2EBA/P (10/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5553" lon="18.9981">
+    <ele>495</ele>
+    <name>HA/KM-021 Hármashatár-hegy [1]</name>
+    <desc>76 activations. Last HA1DTQ/P (28/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6692" lon="18.9086">
+    <ele>489</ele>
+    <name>HA/KM-022 Hosszú-hegy [1]</name>
+    <desc>30 activations. Last HA7HF/P (07/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7758" lon="18.9278">
+    <ele>487</ele>
+    <name>HA/KM-023 Szent Mihály-hegy [1]</name>
+    <desc>11 activations. Last HA2EBA/P (03/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8750" lon="18.8272">
+    <ele>479</ele>
+    <name>HA/KM-024 Nagy-Galla [1]</name>
+    <desc>12 activations. Last HA5OT (26/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5336" lon="18.9553">
+    <ele>454</ele>
+    <name>HA/KM-025 Nagy-Hárs-hegy [1]</name>
+    <desc>117 activations. Last HA7UL/P (22/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6486" lon="18.8353">
+    <ele>447</ele>
+    <name>HA/KM-026 Nagy-Kopasz [1]</name>
+    <desc>24 activations. Last HA7HF/P (07/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8781" lon="19.0367">
+    <ele>380</ele>
+    <name>HA/KM-027 Nagy-Kö-hegy [1]</name>
+    <desc>17 activations. Last HA5CQZ/P (26/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6444" lon="19.3303">
+    <ele>344</ele>
+    <name>HA/KM-028 Margita [1]</name>
+    <desc>41 activations. Last HA4FY/P (14/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4558" lon="18.8467">
+    <ele>334</ele>
+    <name>HA/KM-029 Iharos [1]</name>
+    <desc>204 activations. Last HA7UL/P (25/04/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7464" lon="18.9519">
+    <ele>478</ele>
+    <name>HA/KM-030 Ágas-hegy [1]</name>
+    <desc>18 activations. Last HG7WAV/P (03/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.4772" lon="19.3853">
+    <ele>316</ele>
+    <name>HA/KM-031 Bajtemetés [1]</name>
+    <desc>63 activations. Last HA8LLH/P (08/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8989" lon="18.8522">
+    <ele>549</ele>
+    <name>HA/KM-032 Nagy-Koppány [2]</name>
+    <desc>16 activations. Last HA2EBA/P (19/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.8550" lon="18.8658">
+    <ele>378</ele>
+    <name>HA/KM-033 Csák-hegy [1]</name>
+    <desc>12 activations. Last HA5OT (28/08/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.7756" lon="19.2975">
+    <ele>380</ele>
+    <name>HA/KM-034 Nagy-Szór [1]</name>
+    <desc>17 activations. Last HG7WAV/P (06/12/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.3528" lon="16.4342">
+    <ele>882</ele>
+    <name>HA/ND-001 Irott-kö [8]</name>
+    <desc>125 activations. Last HA/DK2CX/P (15/05/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#FF7F00</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.6517" lon="16.4639">
+    <ele>557</ele>
+    <name>HA/ND-002 Magas-bérc [2]</name>
+    <desc>28 activations. Last HA/ON6UU/P (31/03/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#0000FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8186" lon="17.3292">
+    <ele>445</ele>
+    <name>HA/ND-003 Köves-tetö [1]</name>
+    <desc>15 activations. Last HA1DTQ/P (01/11/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9061" lon="17.2592">
+    <ele>410</ele>
+    <name>HA/ND-004 Tátika [1]</name>
+    <desc>23 activations. Last HA8BE/P (08/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8689" lon="16.1142">
+    <ele>384</ele>
+    <name>HA/ND-005 Hármashatár [1]</name>
+    <desc>4 activations. Last HA5MA/P (23/10/2009)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.0036" lon="16.2964">
+    <ele>354</ele>
+    <name>HA/ND-006 Felsö-Csóka-hegy [1]</name>
+    <desc>1 activation. Last HG1DTQ/P (23/04/2006)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5367" lon="16.8819">
+    <ele>338</ele>
+    <name>HA/ND-007 Vár-hegy [1]</name>
+    <desc>19 activations. Last HA/S57MS/P (18/04/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.5586" lon="17.6661">
+    <ele>317</ele>
+    <name>HA/ND-008 Nyúli-hegy [1]</name>
+    <desc>18 activations. Last HA3HK/P (05/10/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5614" lon="17.0203">
+    <ele>313</ele>
+    <name>HA/ND-009 Tukora [1]</name>
+    <desc>25 activations. Last HA3LV/P (18/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8128" lon="16.7406">
+    <ele>304</ele>
+    <name>HA/ND-010 Kandikó [1]</name>
+    <desc>2 activations. Last HG1DTQ/P (22/10/2005)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="47.2303" lon="17.1158">
+    <ele>279</ele>
+    <name>HA/ND-011 Ság-hegy [1]</name>
+    <desc>22 activations. Last HA4FY/P (21/06/2016)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.3717" lon="17.0300">
+    <ele>249</ele>
+    <name>HA/ND-012 Zápolca [1]</name>
+    <desc>5 activations. Last HA7UL/P (01/01/2010)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8161" lon="16.8858">
+    <ele>305</ele>
+    <name>HA/ND-013 Karácsony-hegy [1]</name>
+    <desc>31 activations. Last HA10SOTA (14/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8500" lon="17.2425">
+    <ele>431</ele>
+    <name>HA/ND-014 Rezi-tetö [1]</name>
+    <desc>27 activations. Last HA8BE/P (07/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9183" lon="17.1878">
+    <ele>362</ele>
+    <name>HA/ND-015 Várott-hegy [1]</name>
+    <desc>9 activations. Last HA2EBA/P (24/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.5667" lon="16.5033">
+    <ele>332</ele>
+    <name>HA/ND-016 Nagy-Tenke [1]</name>
+    <desc>15 activations. Last HA2EBA/P (03/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.9036" lon="17.0378">
+    <ele>331</ele>
+    <name>HA/ND-017 Bezerédi-hegy [1]</name>
+    <desc>14 activations. Last HA1DTQ/P (14/11/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.4725" lon="16.7169">
+    <ele>321</ele>
+    <name>HA/ND-018 Béci-hegy [1]</name>
+    <desc>17 activations. Last HA2EBA/P (03/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.7956" lon="16.9686">
+    <ele>305</ele>
+    <name>HA/ND-019 Kö-hegy [1]</name>
+    <desc>14 activations. Last HA10SOTA (23/10/2015)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+  <wpt lat="46.8383" lon="17.1506">
+    <ele>282</ele>
+    <name>HA/ND-020 Kálmán-hegy [1]</name>
+    <desc>19 activations. Last HA1DTQ/P (05/10/2014)</desc>
+    <type>SOTA peak</type>
+    <extensions>
+        <color>#8B00FF</color>
+    </extensions>
+  </wpt>
+</gpx>
