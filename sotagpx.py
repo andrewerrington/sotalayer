@@ -46,16 +46,16 @@ with open('favourites.gpx', 'w', encoding='utf-8') as o:
                 # Name is "SOTA ref. Name [Points]"
                 name = fields[0] + ' ' + fields[3] + ' [' + fields[10] + ']'
 
-                # Activations go in the note.
+                # Activations go in 'desc', with URL.
                 activations = fields[14] + ' activation' + ('.' if int(fields[14])==1 else 's.')
                 if int(fields[14]) > 0:
-                    activations += ' Last ' + fields[16] + ' (' + fields[15] + ')'
+                    activations += '\nLast ' + fields[16] + ' (' + fields[15] + ').'
                     
                 o.write('  <wpt lat="%s" lon="%s">\n'%( fields[9],fields[8]))
                 o.write('    <ele>%s</ele>\n'%(fields[4]))
                 o.write('    <name>%s</name>\n'%(name))
-                o.write('    <desc>%s</desc>\n'%(activations))
-                o.write('    <type>SOTA peak</type>\n')
+                o.write('    <desc>%s\nhttp://www.sota.org.uk/Summit/%s</desc>\n'%(activations,fields[0]))
+                o.write('    <type>SOTA %s</type>\n'%fields[0].split('-')[0])   # SOTA + Association + Region
                 o.write('    <extensions>\n')
                 o.write('        <color>#%s</color>\n'%colours[fields[10]])
                 o.write('    </extensions>\n')
