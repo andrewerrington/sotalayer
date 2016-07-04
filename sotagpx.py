@@ -25,8 +25,8 @@ print("Extracting '%s'."%key)
 
 id = 0     # Internal counter
 
-# Colours for each point level
-colours = { '1':'8B00FF', '2':  '0000FF', '4':'00FF00', '6':'FFFF00', '8':'FF7F00', '10':'FF0000',}
+# Colours for each point level.  Gradient from green to red.
+colours = {'1':'00FF00', '2':'65FF00', '4':'CCFF00', '6':'FFCC00', '8':'FF6600', '10':'FF0000'}
 
 with open('favourites.gpx', 'w', encoding='utf-8') as o:
 
