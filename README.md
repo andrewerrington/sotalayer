@@ -3,21 +3,21 @@ Make a POI layer for OsmAnd using SOTA summit data.
 
 There are two versions of this software:
 
-###sotalayer.py  
+### sotalayer.py  
 makes a .osm XML file which can be processed by OsmAnd Map Creator
 to produce a .obf file.
 
-###sotagpx.py
+### sotagpx.py
 makes a favourites.gpx file which can be directly read by OsmAnd
 
 In either case, the file contains POI nodes for SOTA summits, which
 can be viewed on the OsmAnd mapping screen.
 
-##Requirements
+## Requirements
 You will need Python 3, and a copy of the SOTA summit data, which can
 be downloaded from [here](http://www.sotadata.org.uk/summitslist.csv) (13Mb CSV file)
 
-##Using the program
+## Using the program
 To run the program, specify the region you want to extract.  For
 example:
 
@@ -41,7 +41,7 @@ In the case of `sotagpx.py` the output is an GPX XML file, which is
 written to _favourites.gpx_. If this file exists it will be overwritten,
 so please move or rename it after each extraction.
 
-##Further processing
+## Further processing
 No further processing is needed for _favourites.gpx_, however to make the
 OsmAnd POI layer from _sotalayer.osm_ you will need OsmAnd Map Creator,
 which is described [here](http://wiki.openstreetmap.org/wiki/OsmAndMapCreator)
